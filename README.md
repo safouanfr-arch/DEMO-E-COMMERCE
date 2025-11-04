@@ -322,6 +322,7 @@ inscription-demo/
 │   ├── App.css                  # Styles globaux (3200+ lignes)
 │   └── main.jsx                 # Point d'entrée
 ├── FONCTIONNALITES.md           # Documentation détaillée
+├── Lancer le site web.ps1       # Permet de lancer l'app
 ├── package.json
 └── README.md                    # Ce fichier
 ```
