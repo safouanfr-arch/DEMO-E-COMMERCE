@@ -1,5 +1,7 @@
 # 🛒 Coopérative de Produits Locaux - Interface de démonstration
 
+Ce dépôt conserve le prototype d’interface de la coopérative. Il montre les premières maquettes et interactions en React. Le projet principal a ensuite évolué vers une application Vue et Spring Boot avec API, authentification et tests. [Terra Sana](https://github.com/safouanfr-arch/terra-sana)
+
 Interface web complète pour la gestion d'une coopérative de produits locaux avec système de commandes, gestion des membres, stocks et points de collecte.
 
 ## 🚀 Démarrage rapide
